@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>397125619825-g2f7u8t7csjdu7t9nb6ko4sgsbmk1e3i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.397125619825-g2f7u8t7csjdu7t9nb6ko4sgsbmk1e3i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDB3X0V_AOFMm1Hah2dlrhfjnBga9IsWc8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>397125619825</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.prakritisaxena.aidBiz</string>
+	<key>PROJECT_ID</key>
+	<string>login-signup-consumers-page</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-signup-consumers-page.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:397125619825:ios:a381b57c333eeed6d2cbd0</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-signup-consumers-page.firebaseio.com</string>
+</dict>
+</plist>
